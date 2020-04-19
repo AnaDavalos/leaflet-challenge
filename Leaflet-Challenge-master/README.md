@@ -4,7 +4,7 @@ Visualized earthquakes occurring globally using a live API feed provided by the 
 
 ## Web application is deployed at the following link:
 
-https://davalos70.github.io/leaflet-challenge
+https://github.com/davalos70/leaflet-challenge/tree/master/Leaflet-Challenge-master
 
 ## Technology stack used in developing this web application is as follows:
 leaflet.js
